@@ -4,13 +4,13 @@ export function Carrusel(){
         <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
         <div className="carousel-item active">
-        <img src="https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/Therion%20integrantes.jpg?alt=media&token=2b74ef24-4244-4fc2-9956-bf51010d9813" className="d-block w-100" alt="..."/>
+        <img src="https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/Lacrimosa%20live.jpg?alt=media&token=bb2a208e-0c20-4e71-9aa8-ffdc3203024e" className="d-block w-100" alt="..."/>
         </div>
         <div className="carousel-item">
-        <img src="https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/therion%20vovin.jpg?alt=media&token=57c76ffb-19ec-4b7d-8b7a-4f66e3502b21" className="d-block w-100" alt="..."/>
+        <img src="https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/lacrimosa%20wallpaper2.jpg?alt=media&token=db5ab254-1a9f-4e3a-b5b8-57106146059f" className="d-block w-100" alt="..."/>
         </div>
         <div className="carousel-item">
-        <img src="https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/Therion%20Secret%20of%20the%20runes.jpg?alt=media&token=2dca8e12-efd1-4eab-8289-ca848f83c007" className="d-block w-100" alt="..."/>
+        <img src="https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/lacrimosa%20wallpaper3.jpg?alt=media&token=8ebafa67-ce4d-466b-a1e1-8ad9b474521f" className="d-block w-100" alt="..."/>
         </div>
         </div>
         <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">

@@ -18,7 +18,7 @@ export function Musicos (){
         {
             nombre:"Tilo y Anne",
             rol:"Vocalistas",
-            url:"https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/lacrimosaVocalistas.png?alt=media&token=7b5dcc22-bb08-4d4c-ae2f-3e4228ffc421",
+            url:"https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/Lacrimosa.jpg?alt=media&token=6d8b9018-c5fc-4eaf-b343-fc3f67969923",
         }
     ]
 
@@ -28,13 +28,13 @@ export function Musicos (){
             fecha:"2013",
             pais:"Colombia",
             descripcion:"Las segundas partes si pueden ser buenas, gratas y ¿por qué no? Hasta mejores, la banda que en su primer paso en Octubre del 2010 pareció quedar encantada con Bogotá y este era el momento de corroborarlo",
-            foto:"https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/lacrimosa-en-colombia-2013-d.webp?alt=media&token=4e1712f5-2e63-4b8c-be0e-4001bb0ace40"
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/Lacrimosa%20Colombia.jpg?alt=media&token=6108eca5-4eb4-40c5-89ee-9014f0e1b91b"
         },
         {
             fecha:"2013",
             pais:"Argentina",
             descripcion:"LA BANDA GÓTICA POR EXCELENCIA SE PRESENTÓ EN EL TEATRO DE COLEGIALES PARA FESTEJAR SUS MÁS DE 20 AÑOS DE CARRERA EN EL MARCO DEL REVOLUTION TOUR QUE TAMBIÉN LOS ESTA LLEVANDO POR EL RESTO DE LATINOAMERICA",
-            foto:"https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/lacrimosa_buenos_aires-2013.webp?alt=media&token=34c66464-7254-4d7f-b8d4-9e62860f6698"
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/Lacrimosa%20Argentina.jpg?alt=media&token=5beb449a-044d-4de2-afe1-50b024fd11b9"
         },
         {
             fecha:"2001",
@@ -48,6 +48,12 @@ export function Musicos (){
             pais:"Deutschland",
             descripcion:"Aunque Alemania es la tierra natal de la banda y dieron un concierto en 1993, no se encuentran imágenes de estos conciertos todas son de conciertos por LATAM",
             foto:"https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/Lacrimosa%20Berlin%201993.jpg?alt=media&token=927054f0-4dda-4630-b6e4-3d0759f45418"
+        },
+        {
+            fecha:"2019",
+            pais:"Mexico",
+            descripcion:"El Circo Volador albergó a Lacrimosa durante dos noches seguidas. También Toluca, Cuernavaca, Puebla, Guadalajara, Querétaro, Morelia, Aguascalientes, León, San Luis Potosí y Monterrey, mostrando una relación estrecha entre Lacrimosa y su público mexicano",
+            foto:"https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/Lacrimosa%20Mexico.jpg?alt=media&token=d00353bd-710c-45d0-9978-49091b138126"
         }
     ]
 
@@ -78,7 +84,7 @@ export function Musicos (){
 
 
         </div>
-        <div className="row row-cols-1 row-cols-md-4 g-3 justify-content-center bg-dark h-100 p-5">
+        <div className="row row-cols-1 row-cols-md-5 g-2 justify-content-center bg-dark h-100 py-5">
             {
             conciertosMemorables.map(function(concierto){
                 return(

@@ -68,7 +68,7 @@ export function Integrantes(){
 
             <div className="row my-5 justify-content-center">
                 <div className="col-12 col-md-4 zoom">
-                <img src="https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/Lacrimosa.jpg?alt=media&token=6d8b9018-c5fc-4eaf-b343-fc3f67969923" alt="foto1" className="img-fluid w-100 rounded-circle animate__animated animate__bounce wow animate__backInLeft" data-bs-toggle="collapse"             data-bs-target="#artista3">
+                <img src="https://firebasestorage.googleapis.com/v0/b/spotify-9b3a0.appspot.com/o/Lacrimosa.jpg?alt=media&token=d8e3118f-6dd0-40b5-ba53-3c3ad5266f26" alt="foto1" className="img-fluid w-100 rounded-circle animate__animated animate__bounce wow animate__backInLeft" data-bs-toggle="collapse"             data-bs-target="#artista3">
             </img>
 
                 </div>
